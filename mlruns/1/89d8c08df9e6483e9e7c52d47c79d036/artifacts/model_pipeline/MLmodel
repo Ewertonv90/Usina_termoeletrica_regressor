@@ -9,9 +9,9 @@ flavors:
     pickled_model: model.pkl
     serialization_format: cloudpickle
     sklearn_version: '1.0'
-run_id: f6bb99b8641f4fbe9d9647176a1c911e
+run_id: 89d8c08df9e6483e9e7c52d47c79d036
 signature:
   inputs: '[{"name": "AT", "type": "double"}, {"name": "V", "type": "double"}, {"name":
     "AP", "type": "double"}, {"name": "RH", "type": "double"}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
-utc_time_created: '2022-08-31 03:43:11.495558'
+utc_time_created: '2022-08-31 04:12:26.991752'
